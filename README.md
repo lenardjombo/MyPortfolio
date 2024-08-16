@@ -1,5 +1,5 @@
 # Portfolio Website
-- (Live Demo)[https://jombo.netlify.app/]
+- [LiveDemo](https://jombo.netlify.app/)
 Welcome to my portfolio website! This project showcases my work, skills, and contact information.
 
 ## Table of Contents

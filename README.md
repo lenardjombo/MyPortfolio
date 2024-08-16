@@ -15,7 +15,6 @@ Welcome to my portfolio website! This project showcases my work, skills, and con
 
 - **Responsive Design**: The website is responsive and adjusts seamlessly across devices.
 - **Dynamic Content**: Utilizes JavaScript for interactive elements and dynamic content display.
-- **Dark/Light Mode**: Allows users to switch between dark and light themes for a better viewing experience.
 - **Contact Form**: Includes a contact form to connect with me directly.
 - **Social Media Icons**: Displays 3D-effect social media icons for easy access.
 

@@ -1,5 +1,12 @@
 # Portfolio Website
 - [LiveDemo](https://jombo.netlify.app/)
+
+![Screenshot from 2024-08-16 05-33-36](https://github.com/user-attachments/assets/d09a2793-5dab-4459-beef-db1f68786387)
+![Screenshot from 2024-08-16 05-33-53](https://github.com/user-attachments/assets/596e90f3-aef0-4f78-a22f-4543ae5e8651)
+![Screenshot from 2024-08-16 05-34-00](https://github.com/user-attachments/assets/aba8852f-08a2-4297-ad4b-11a80344cc43)
+![Screenshot from 2024-08-16 05-34-10](https://github.com/user-attachments/assets/f36d479f-cfe2-4d67-b6d8-9c4570816454)
+![Screenshot from 2024-08-16 05-34-36](https://github.com/user-attachments/assets/69076c64-a73f-4868-8704-97a1d132eef6)
+
 Welcome to my portfolio website! This project showcases my work, skills, and contact information.
 
 ## Table of Contents

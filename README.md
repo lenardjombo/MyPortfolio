@@ -1,4 +1,6 @@
 # Portfolio Website
+
+Welcome to my portfolio website! This project showcases my work, skills, and contact information.
 - [LiveDemo](https://jombo.netlify.app/)
 
 ![Screenshot from 2024-08-16 05-33-36](https://github.com/user-attachments/assets/d09a2793-5dab-4459-beef-db1f68786387)
@@ -7,7 +9,6 @@
 ![Screenshot from 2024-08-16 05-34-10](https://github.com/user-attachments/assets/f36d479f-cfe2-4d67-b6d8-9c4570816454)
 ![Screenshot from 2024-08-16 05-34-36](https://github.com/user-attachments/assets/69076c64-a73f-4868-8704-97a1d132eef6)
 
-Welcome to my portfolio website! This project showcases my work, skills, and contact information.
 
 ## Table of Contents
 

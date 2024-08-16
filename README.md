@@ -48,7 +48,7 @@ Welcome to my portfolio website! This project showcases my work, skills, and con
 
 - Navigate through different sections using the navbar.
 - Switch between dark and light modes using the theme toggle.
-- Fill out the contact form to get in touch.
+- Fill out the contact form to get in touch
 
 ## Contributing
 
